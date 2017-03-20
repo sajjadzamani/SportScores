@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SportsScores</string>
+
+    <string name="atl">Hawks</string>
+    <string name="bkn">Nets</string>
+    <string name="cha">Hornets</string>
+    <string name="chi">Bulls</string>
+    <string name="cle">Cavaliers</string>
+    <string name="dal">Mavericks</string>
+    <string name="den">Nuggets</string>
+    <string name="det">Pistons</string>
+    <string name="gsw">Warriors</string>
+    <string name="hou">Rockets</string>
+    <string name="ind">Pacers</string>
+    <string name="lac">Clippers</string>
+    <string name="lal">Lakers</string>
+    <string name="mem">Grizzlies</string>
+    <string name="mia">Heat</string>
+    <string name="mil">Bucks</string>
+    <string name="min">Timberwolves</string>
+    <string name="nop">Pelicans</string>
+    <string name="nyk">Knicks</string>
+    <string name="okc">Thunder</string>
+    <string name="orl">Magic</string>
+    <string name="phi">76ers</string>
+    <string name="phx">Suns</string>
+    <string name="por">Trail Blazers</string>
+    <string name="sac">Kings</string>
+    <string name="sas">Spurs</string>
+    <string name="tor">Raptors</string>
+    <string name="uta">Jazz</string>
+    <string name="was">Wizards</string>
+</resources>
