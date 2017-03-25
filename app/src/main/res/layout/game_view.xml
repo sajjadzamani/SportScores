@@ -8,23 +8,20 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/score"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true" />
+        android:text="####"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@drawable/atl"
         android:id="@+id/away"
         android:visibility="visible"
-        android:layout_alignParentEnd="false"
-        android:layout_alignParentBottom="false"
         android:layout_alignParentRight="true" />
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@drawable/atl"
         android:id="@+id/home"
         android:layout_alignParentLeft="true"
         android:visibility="visible" />

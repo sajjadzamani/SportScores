@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SportsScores</string>
+    <string name="app_name">Sports Scores</string>
 
     <string name="atl">Hawks</string>
     <string name="bkn">Nets</string>
@@ -30,4 +30,8 @@
     <string name="tor">Raptors</string>
     <string name="uta">Jazz</string>
     <string name="was">Wizards</string>
+
+    <string name="noGame">No Games Today</string>
+    <string name="reload">Reload</string>
+
 </resources>
